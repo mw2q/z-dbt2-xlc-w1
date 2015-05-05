@@ -1,0 +1,20 @@
+starting system statistics data collection
+Linux 3.0.76-0.11-default (ECSPGSQL) 	05/04/2015 	_s390x_
+Usage: pidstat [ options ] [ <interval> [ <count> ] ]
+Options are:
+[ -C <command> ] [ -d ] [ -I ] [ -r ] [ -t ] [ -u ] [ -V ] [ -w ]
+[ -p { <pid> | SELF | ALL } ] [ -T { TASK | CHILD | ALL } ]
+
+10:57:16 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+10:58:16 PM     all     63.98      0.00     11.17      8.81      1.78     14.27
+10:59:16 PM     all     63.31      0.00     10.58      9.37      1.72     15.01
+11:00:16 PM     all     63.90      0.00     10.62      8.92      1.93     14.62
+11:01:16 PM     all     63.89      0.00     10.52      9.12      1.73     14.74
+11:02:16 PM     all     63.08      0.00     10.51      8.73      1.72     15.96
+11:03:16 PM     all     63.79      0.00     10.58      9.06      1.75     14.82
+11:04:16 PM     all     63.86      0.00     10.44      9.10      1.76     14.85
+11:05:16 PM     all     63.74      0.00     10.42      8.68      1.70     15.47
+11:06:16 PM     all     63.83      0.00     10.51      9.07      1.83     14.75
+11:07:16 PM     all     63.68      0.00     10.47      8.69      1.68     15.49
+11:08:16 PM     all     38.71      0.00     28.49      0.61      0.77     31.41
+Average:        all     61.43      0.00     12.21      8.20      1.67     16.49
